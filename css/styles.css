@@ -1,0 +1,45 @@
+body{
+  background-color: #EEE3CB;
+  font-family: 'Poppins', sans-serif;
+}
+.container{
+  width: 360px;
+  padding: 33px;
+  text-align: center;;
+  background-color:#D7C0AE;
+  margin-left: 33%;
+  margin-top: 5px;
+}
+input{
+  width: 270px;
+  padding: 8px;
+  border: 4px #EEE3CB;
+  outline: black;
+font-size: 19px;
+}
+button{
+  width: 60px;
+  height: 40px;
+  background-color: #967E76;
+  color: black;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 19px;
+border: none;
+outline: none;
+}
+.text ul{
+  position: relative;
+  background-color: #967E76;
+  color: black;
+  font-size: 19px;
+  padding: 7px;
+  text-align: left;
+
+}
+
+.text ul iconify-icon{
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
